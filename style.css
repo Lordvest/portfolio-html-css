@@ -10,16 +10,40 @@
      float: right;
 
    }
+   .container-two {
+    border: 3px solid black;
+}
+.container-two > div {    
+    border: 2px solid black;
+}
+.flex-container{
+    display: flex;
+    width: 100%;
+}
 
-   .body-head {
+.flex-container2{
+    display: flex;
+    width: 100%;
+}
+
+.flex-container3{
+    display: flex;
+    width: 100%;
+}
+
+.flex-container4{
+    display: flex;
+    width: 100%;
+}
+
+.body-head {
        padding-left: 30px;
        
        }
-       .folio-items{
- 
-       }
+  .folio-items {
+      width: 50%; 
+        }
 
-       .folio-side{
- 
-         
+  .folio-side{ 
+    width: 50%;         
        }
