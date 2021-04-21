@@ -1,3 +1,7 @@
+body{
+    padding-left: 80px;
+    padding-right: 60px;
+}
 .container {
     background-color: grey;
     padding-top: 100px;
